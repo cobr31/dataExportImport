@@ -9,13 +9,19 @@
 }
 
 .main h1 {
-    color: rgb green;
+    color: green;
     text-align: center;
 }
 
 .main input {
-    margin-top: 40px;
+    margin-top: 15px;
+    margin-left: 20px;
 }
+
+#table {
+    margin-top: 20px;
+    margin-left: 40px;
+} 
 
 .main button {
     width: max-content;
@@ -30,7 +36,7 @@
     color: white;
 }
 .main button:hover {
-    background-color: rgb(2, 105, 2);
+    background-color: rgb(41, 27, 240);
     cursor: pointer;
 }
 
